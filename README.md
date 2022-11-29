@@ -110,3 +110,8 @@ void PrintArray(string[] array)
 Результат вывода в терминал:
 
 > ![image answer in terminal](task_completed.png)
+
+
+5. Скриншот коммитов для подтверждения.
+
+>![Screenshot of commits](Screen_1.png)
